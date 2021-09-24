@@ -1,8 +1,9 @@
 # Multi-thread practice
-ThreadPractice.py contains the code implementing threading examples to understand the use of threading library in python.<br>
-ThreadTutorial.py is the example in https://realpython.com/intro-to-python-threading/
-xx in https://realpython.com/python-concurrency/
-xy in https://realpython.com/async-io-python/
+- ThreadPractice.py contains the code implementing threading examples to understand the use of threading library in python.<br>
+- Referred to https://docs.python.org/3/library/threading.html <br>
+- ThreadTutorial.py is the example in https://realpython.com/intro-to-python-threading/  
+- PythonConcurrency.py in https://realpython.com/python-concurrency/  
+- Async-IO-Python.py in https://realpython.com/async-io-python/  
 
 ## Keywords
 - 
